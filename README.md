@@ -6,16 +6,16 @@ Image Converter is a Flutter application that allows users to pick, edit, and co
 ![Home Screen](ScreenShots/HomeScreen.png)
 
 ### Image Editor Screen
-![Image Editor Screen](ScreenShots/Image Editor Screen.png)
+![Image-Editor-Screen](ScreenShots/Image Editor Screen.png)
 
 ### Settings Screen
 ![Settings Screen](ScreenShots/Settings.png)
 
 ### Single Image Screen
-![Single Image Screen](ScreenShots/SingleImage Screen.png)
+![Single-Image-Screen](ScreenShots/SingleImage Screen.png)
 
 ### Converted Files Screen
-![Converted Files Screen](ScreenShots/converted Files Screen.png)
+![Converted-Files-Screen](ScreenShots/converted Files Screen.png)
 
 **Features**
 Pick images from device storage or camera
